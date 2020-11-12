@@ -1,6 +1,6 @@
 ## This is how the final app would look like with the api key
 
-![alt text]app.png
+![alt text]app.PNG
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
