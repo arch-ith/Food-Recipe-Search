@@ -14,8 +14,8 @@ function App() {
     fetch(`https://edamam-recipe-search.p.rapidapi.com/search?q={${query}}`, {
       "method": "GET",
       "headers": {
-        "x-rapidapi-key": "569a91fe2fmsh11d6983cd338aa0p1f82f0jsn66f14706d30d",
-        "x-rapidapi-host": "edamam-recipe-search.p.rapidapi.com"
+        "x-rapidapi-key": "",
+        "x-rapidapi-host": ""
       }
      })
      .then(function(res){
